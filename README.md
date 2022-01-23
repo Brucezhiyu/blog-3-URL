@@ -20,6 +20,7 @@ DNS作用:通过DNS将域名和IP对应起来。
 
 如何使用nslookup命令？
 使用cmder输入:nslookup baidu.com(询问baidu.com对应什么域名)
+
 **3. IP 的作用是什么，ping 命令怎么用**
 IP是用来定位一台设备的字符串。
 IP的作用是什么？
